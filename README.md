@@ -5,4 +5,4 @@
   
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Vivisouzaa15&show_icons=true&theme=dracula)
 
-![Snake animation](https://github.com/Vivisouzaa15/Vivisouzaa15/blob/output/github-contribution-grid-snake.svg)
+
