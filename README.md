@@ -4,4 +4,6 @@
 - 💞️ Estou curtindo minha vida com pessoas, amigos e familiares ...
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Vivisouzaa15)](https://github.com/Vivisouzaa15/github-readme-stats)
+
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/Vivisouzaa=Vivisouzaa&repo=github-readme-stats)](https://github.com/Vivisouzaa15/github-readme-stats)
  
