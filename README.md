@@ -4,4 +4,5 @@
 - 💞️ Estou curtindo minha vida com pessoas, amigos e familiares ...
   
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Vivisouzaa15&show_icons=true&theme=dracula)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Vivisouzaa15&layout=compact)](https://github.com/Vivisouzaa15/github-readme-stats)
+
+![Snake animation](https://github.com/Vivisouzaa15/Vivisouzaa15/blob/output/github-contribution-grid-snake.svg)
