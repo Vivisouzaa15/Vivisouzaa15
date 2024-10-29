@@ -5,4 +5,4 @@
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Vivisouzaa15)](https://github.com/Vivisouzaa15/github-readme-stats)
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/apiVivisouzaa15=Vivisouzaa15&hide=contribs,prs)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/apiVivisouzaa15=Vivisouzaa15&count_private=true)
