@@ -4,4 +4,10 @@
 - 💞️ Estou curtindo minha vida com pessoas, amigos e familiares ...
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Vivisouzaa15)](https://github.com/Vivisouzaa15/github-readme-stats)
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/apiVivisouzaa15=Vivisouzaa15&show_icons=true&theme=radical)
+ },
+  dracula: {
+    title_color: "ff6e96",
+    icon_color: "79dafa",
+    text_color: "f8f8f2",
+    bg_color: "282a36",
+  },
