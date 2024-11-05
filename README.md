@@ -1,25 +1,25 @@
-- 👋 Olá, meu nome é @Vivisouzaa15
+- 👋 Olá, meu nome é Vitória
 - 👀 Eu me interesso em escutar musicas, curtir momentos e sair com os amgs ...
-- 🌱 Atualemtne, fasso o curso de informática no 1°ano ...
+- 🌱 Atualemtne, faço o curso de informática no 1°ano ...
 - 💞️ Estou curtindo minha vida com pessoas, amigos e familiares ...
   
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Vivisouzaa15&show_icons=true&theme=dracula)
 
 
 
-![Mari GitHub stats](https://github-readme-stats.vercel.app/api?username=fcmariana&show_icons=true&theme=dark
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=fcmariana_progress=true&theme=dark)
+![Vitoria GitHub stats](https://github-readme-stats.vercel.app/api?username=Vivisouzaa15&show_icons=true&theme=dark
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Vivisouzaa15_progress=true&theme=dark)
 
 
 
 <div>  
-  <a href="https://www.instagram.com/_fc.mariana" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
+  <a href="https://www.instagram.com/_vihh_hx" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
 </div>
 
 <div style="display: inline_block"><br>
-  <img align="center" alt="Rafa-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="Rafa-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="center" alt="Rafa-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
+  <img align="center" alt="Vivisouzaa15-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
+  <img align="center" alt="Vivisouzaa15-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+  <img align="center" alt="Vivisouzaa15-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
 
 </div>
 
@@ -31,11 +31,6 @@
   <img align="center" alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/mari4souza/mari4souza/output/github-contribution-grid-snake.svg">
 </picture>
 
-<div style="display: inline_block"><br>
-  <img align="center" alt="Vivisouzaa15-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="Vivisouzaa15-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="center" alt="Vivisouzaa15-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-</div>
 
     
        
