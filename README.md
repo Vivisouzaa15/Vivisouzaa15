@@ -7,7 +7,7 @@
 
 
 
-![Vitoria GitHub stats](https://github-readme-stats.vercel.app/api?username=Vivisouzaa15&show_icons=true&theme=dark
+
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Vivisouzaa15_progress=true&theme=dark)
 
 
